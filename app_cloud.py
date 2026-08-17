@@ -479,7 +479,7 @@ with st.sidebar:
     diarize_option = st.selectbox(
         "בחר מנוע זיהוי דוברים:",
         [
-            "Pyannote מקומי (דורש כרטיס מסך)", 
+        
             "Deepgram API (מומלץ לענן - חינמי בהרשמה)",
             "Pyannote בענן (Replicate API - בתשלום סמלי)", 
             "Gemini 1.5 (חינמי לגמרי)"
