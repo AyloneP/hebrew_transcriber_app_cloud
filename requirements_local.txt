@@ -1,0 +1,10 @@
+streamlit>=1.31.0
+requests
+google-generativeai
+soundfile
+numpy
+python-docx
+faster-whisper
+pyannote.audio
+torch
+torchaudio

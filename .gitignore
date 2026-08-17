@@ -1,0 +1,10 @@
+*.m4a
+*.mp3
+*.wav
+*.ogg
+*.zip
+venv/
+__pycache__/
+temp_uploads/
+saved_transcriptions/
+trancriber-whisper/

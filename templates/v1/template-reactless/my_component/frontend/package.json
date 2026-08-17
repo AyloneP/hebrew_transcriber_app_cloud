@@ -1,0 +1,32 @@
+{
+  "name": "my_component",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "streamlit-component-lib": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "prettier": "^3.9.6",
+    "typescript": "^5.9.3",
+    "vite": "^8.2.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "homepage": "."
+}
